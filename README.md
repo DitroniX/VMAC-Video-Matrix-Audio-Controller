@@ -1,5 +1,6 @@
-# VMAC-Video-Matrix-Audio-Controller
-VMAC (PiHat Video Matrix Audio Controller)
+**VMAC (PiHat Video Matrix Audio Controller)**
+
+------------
 
 The VMAC v3 PiHat ifeatures FOUR A/V inputs and ONE A/V output, complete with OSD (On Screen Display).
 
@@ -24,7 +25,12 @@ Typical applications for the VMAC PiHat v3 are:
 ![Display-Type-B](https://ditronix.net/wp-content/uploads/2022/02/VMAC-PiHat-v3-PCBAngled.png?raw=true)
 
 
-
-Further product and Wiki information maybe found on our website https://ditronix.net
-
 Tags: Amateur Television, ATV, Audio Matrix, BATC, Composite Switch, Composite Video, DATV, GB3FW, GB3JT, HAMKit, IoT, PiHat, SDK, STEM, Video Matrix
+
+Further information can be found:
+
+- **Website** https://ditronix.net/
+- **WIKI**  https://ditronix.net/wiki/
+- **Shop**  https://ditronix.net/shop/
+
+Dave Williams | G8PUO | DitroniX 1981-2022 | ditronix.net
