@@ -20,8 +20,14 @@ Typical applications for the VMAC PiHat v3 are:
 - Video remote switching
 - Audio remote switching
 
-![Display-Type-B](https://ditronix.net/wp-content/uploads/2022/02/VMAC-PiHat-v3-PCBAngled.png?raw=true)
+VMAC PiHat V2.4 - Archive Photo
+![Display-Type-B](https://github.com/DitroniX/VMAC-Video-Matrix-Audio-Controller/blob/main/Datasheets%20and%20Information/HAMKit-VMAC-PiHat-v2.4-on-Pi3.jpg?raw=true)
 
+VMAC ESP32 - Archive Photo of the Prototype Board
+![Display-Type-B](https://github.com/DitroniX/VMAC-Video-Matrix-Audio-Controller/blob/main/Datasheets%20and%20Information/VMAC%20ESP32%20Prototype.jpg?raw=true)
+
+VMAC RPI Lite with PI Zero on Headers - Archive Photo of the Prototype Board
+![Display-Type-B](https://github.com/DitroniX/VMAC-Video-Matrix-Audio-Controller/blob/main/Datasheets%20and%20Information/VMAC%20RPI%20Lite%20with%20PI%20Zero%20on%20Headers.jpeg?raw=true)
 
 Tags: Amateur Television, ATV, Audio Matrix, BATC, Composite Switch, Composite Video, DATV, GB3FW, GB3JT, HAMKit, IoT, PiHat, SDK, STEM, Video Matrix
 
